@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey, I'm Julia Haertel 👋
 
-<!--
-**juliahaertel/juliahaertel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of systems development in constant evolution, passionate about learning and programming.
 
-Here are some ideas to get you started:
+ - 👩‍💻I'm looking for my first job in information technology(IT) area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🌱I’m currently learning Java.
+
+~~ . ~~ 
+
+### Olá, Eu sou a Julia Haertel 👋
+
+Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada por aprender e programação.
+
+ - 👩‍💻Estou procurando pelo meu primeiro emprego na área de tecnologia da informação(TI).
+
+ - 🌱Atualmente estou aprendendo Java.
+
+##
+
+<a href="https://www.linkedin.com/in/julia-ballen-haertel-71242120b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/juliabahaertel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:juuliaballenhaertel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
