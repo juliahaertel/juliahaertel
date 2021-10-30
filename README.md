@@ -4,7 +4,7 @@ I am a student of systems development in constant evolution, passionate about le
 
  - 👩‍💻I'm looking for my first job in information technology(IT) area.
 
- - 🌱I’m currently learning Java.
+ - 🌱I’m currently learning Java and C.
 
 ~~ . ~~ 
 
@@ -14,7 +14,7 @@ Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada
 
  - 👩‍💻Estou procurando pelo meu primeiro emprego na área de tecnologia da informação(TI).
 
- - 🌱Atualmente estou aprendendo Java.
+ - 🌱Atualmente estou aprendendo Java e C.
 
 ##
 
