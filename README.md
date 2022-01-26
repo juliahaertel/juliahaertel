@@ -1,18 +1,6 @@
-### Hey, I'm Julia Haertel 👋
-
-I am a student of systems development in constant evolution, passionate about learning and programming.
-
- - 👩‍💻I'm looking for my first job in information technology(IT) area.
-
- - 🌱I’m currently learning Java and C.
-
-~~ . ~~ 
-
 ### Olá, Eu sou a Julia Haertel 👋
 
 Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada por aprender e programação.
-
- - 👩‍💻Estou procurando pelo meu primeiro emprego na área de tecnologia da informação(TI).
 
  - 🌱Atualmente estou aprendendo Java e C.
 
