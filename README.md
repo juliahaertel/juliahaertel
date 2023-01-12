@@ -2,7 +2,7 @@
 
 Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada por aprender e programação.
 
- - 🌱Atualmente estou aprendendo Java e C.
+ - 🌱Atualmente estou aprendendo flutter.
 
 ##
 
