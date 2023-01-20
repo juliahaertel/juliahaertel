@@ -4,7 +4,7 @@ Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada
 
  - 🌱Atualmente estou aprendendo flutter.
 
-![juliahaertel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliahaertel&show_icons=true&theme=transparent)
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=juliahaertel&show_icons=true&include_all_commits=true" />
 
 ##
 
