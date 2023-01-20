@@ -2,7 +2,7 @@
 
 Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada por aprender e programação.
 
- - 🌱Atualmente estou aprendendo flutter.
+ - 🌱Atualmente estou estudando flutter.
 
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=juliahaertel&show_icons=true&include_all_commits=true" />
 
