@@ -4,6 +4,8 @@ Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada
 
  - 🌱Atualmente estou aprendendo flutter.
 
+![julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliahaertel&show_icons=true&theme=transparent)
+
 ##
 
 <a href="https://www.linkedin.com/in/julia-ballen-haertel-71242120b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
