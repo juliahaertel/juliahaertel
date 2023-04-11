@@ -4,9 +4,13 @@ Sou estudante de desenvolvimento de sistemas em constante evolução, apaixonada
 
  - 🌱Aqui você vai encontar meus projetos:
 
-            * EducaTech - Projeto do curso jovem programador, em java com o objetivo de por em prática conteudos vistos na sala de aula.
-            * Flutter✨ - Projeto pessoal, com objetivo de ser um resumo prático do framework Flutter, com cadastros, consulatas, estrutura organizadas e brincadeiras com a tecnologia.
-            * Devstravel -  Projeto pessoal, para a prática do framework Flutter.
+        * EducaTech * - Projeto do curso jovem programador, em java com o objetivo de por em prática
+        conteudos vistos na sala de aula.
+
+        * Flutter✨ * - Projeto pessoal, com objetivo de ser um resumo prático do framework Flutter,
+         com cadastros, consulatas, estrutura organizadas e brincadeiras com a tecnologia.
+
+        * Devstravel * -  Projeto pessoal, para a prática do framework Flutter.
 
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=juliahaertel&show_icons=true&include_all_commits=true" />
 
