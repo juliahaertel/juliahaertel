@@ -10,7 +10,7 @@ Sou desenvolvedora fullStack, estudante de desenvolvimento de sistemas em consta
         conteudos vistos na sala de aula.
 
         * Flutter✨  - Projeto pessoal, com objetivo de ser um resumo prático do framework Flutter,
-         com cadastros, consulatas, estrutura organizadas e brincadeiras com a tecnologia.
+         com cadastros, consultas, estruturas, organização e brincadeiras com a tecnologia.
 
         * Devstravel  -  Projeto pessoal, para a prática do framework Flutter.
 
