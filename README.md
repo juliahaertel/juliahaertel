@@ -6,13 +6,15 @@ Sou desenvolvedora fullStack, estudante de desenvolvimento de sistemas em consta
     
     - 🌱Aqui você vai encontar meus projetos:
 
-        * EducaTech  - Projeto do curso jovem programador, em java com o objetivo de por em prática
-        conteudos vistos na sala de aula.
+       
 
         * Flutter✨  - Projeto pessoal, com objetivo de ser um resumo prático do framework Flutter,
          com cadastros, consultas, estruturas, organização e brincadeiras com a tecnologia.
 
         * Devstravel  -  Projeto pessoal, para a prática do framework Flutter.
+        
+        * EducaTech  - Projeto do curso jovem programador, em java com o objetivo de por em prática
+        conteudos vistos na sala de aula.
 
 
 
