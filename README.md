@@ -14,7 +14,7 @@ Sou desenvolvedora fullStack, estudante de desenvolvimento de sistemas em consta
 
         * Devstravel  -  Projeto pessoal, para a prática do framework Flutter.
 
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=juliahaertel&show_icons=true&include_all_commits=true" />
+//<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=juliahaertel&show_icons=true&include_all_commits=true" />
 
 ##
 
