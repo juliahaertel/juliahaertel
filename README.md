@@ -2,7 +2,7 @@
 
 Sou desenvolvedora fullStack, estudante de desenvolvimento de sistemas em constante evolução, apaixonada por programação.
 
-- Conhecimento em : Oracle APEX | PLSQL | Flutter
+- Conhecimento em : Oracle APEX | PLSQL | Oracle Database | HTML | CSS | Javascript | DevOps | Flutter | Java | python 
     
     - 🌱Aqui você vai encontar meus projetos:
 
