@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Julia Haertel 👋
 
-Sou desenvolvedora fullStack, estudante de desenvolvimento de sistemas em constante evolução, apaixonada por programação.
+Sou desenvolvedora fullStack, com sódida experiencia e em constante evolução, apaixonada por desenvolvimento e lógica.
 
 - Conhecimento em : Oracle APEX | PLSQL | Oracle Database | HTML | CSS | Javascript | DevOps | Flutter | Java | python 
     
